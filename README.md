@@ -71,7 +71,15 @@ rag-chatbot/
 
 🖼️ Screenshots
 
-(Add later: PDF upload screen, Chat UI, Metrics dashboard)
+<img width="1361" height="691" alt="rag1" src="https://github.com/user-attachments/assets/6e381ef0-25bc-4ff2-8002-a3c01caa4ea2" />
+<img width="1128" height="416" alt="rag2" src="https://github.com/user-attachments/assets/c9db2d08-d85e-48e8-8f68-841f849d8436" />
+<img width="1362" height="686" alt="rag3" src="https://github.com/user-attachments/assets/b5d28191-b30e-4b8b-a298-d9191693cf57" />
+<img width="1364" height="687" alt="rag4" src="https://github.com/user-attachments/assets/076fdceb-1c90-4930-b39a-14a3e79e58b4" />
+<img width="1364" height="687" alt="rag5" src="https://github.com/user-attachments/assets/86969412-2d68-42c0-9709-81761ecb6429" />
+
+
+
+
 
 🎨 Why This Project Matters
 
