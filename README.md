@@ -165,4 +165,16 @@ Key insights:
 
 The goal was building something that works well for the common case and demonstrates core RAG concepts clearly. It's a solid foundation that could be extended, but it's also useful as-is for many document Q&A scenarios.
 
-Not trying to solve every edge case or build the most advanced system possible - just something that works and teaches the fundamentals.\n\n---\n\n*This project represents a practical approach to RAG implementation - not the most advanced system possible, but a solid foundation that demonstrates the key concepts and trade-offs involved in building document Q&A systems.*
+Not trying to solve every edge case or build the most advanced system possible - just something that works and teaches the fundamentals.
+
+---
+
+*This project represents a practical approach to RAG implementation - not the most advanced system possible, but a solid foundation that demonstrates the key concepts and trade-offs involved in building document Q&A systems.*
+
+## 📸 Screenshots
+
+<img width="1361" height="691" alt="rag 1" src="https://github.com/user-attachments/assets/109afa01-8829-4e6d-ad6f-0619af20c7a1" />
+<img width="1128" height="416" alt="rag2" src="https://github.com/user-attachments/assets/5856a2cc-ebc1-4270-ac83-fb06dcdbb5ef" />
+<img width="1362" height="686" alt="rag 3" src="https://github.com/user-attachments/assets/4259b04b-4a5a-4567-9f7f-ad9d1627b096" />
+<img width="1364" height="687" alt="rag 4" src="https://github.com/user-attachments/assets/4ee601c1-3254-427d-92f5-f9c3763fb5cf" />
+<img width="1364" height="687" alt="rag 5" src="https://github.com/user-attachments/assets/4c3542f1-77b5-4c17-bfd6-33c07ba59fe6" />
